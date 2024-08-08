@@ -1,0 +1,16 @@
+C:\Users\kalvi\Documents\Addscore\obj\Debug\net5.0\Addscore.csproj.AssemblyReference.cache
+C:\Users\kalvi\Documents\Addscore\obj\Debug\net5.0\Addscore.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kalvi\Documents\Addscore\obj\Debug\net5.0\Addscore.AssemblyInfoInputs.cache
+C:\Users\kalvi\Documents\Addscore\obj\Debug\net5.0\Addscore.AssemblyInfo.cs
+C:\Users\kalvi\Documents\Addscore\obj\Debug\net5.0\Addscore.csproj.CoreCompileInputs.cache
+C:\Users\kalvi\Documents\Addscore\bin\Debug\net5.0\Addscore.exe
+C:\Users\kalvi\Documents\Addscore\bin\Debug\net5.0\Addscore.deps.json
+C:\Users\kalvi\Documents\Addscore\bin\Debug\net5.0\Addscore.runtimeconfig.json
+C:\Users\kalvi\Documents\Addscore\bin\Debug\net5.0\Addscore.runtimeconfig.dev.json
+C:\Users\kalvi\Documents\Addscore\bin\Debug\net5.0\Addscore.dll
+C:\Users\kalvi\Documents\Addscore\bin\Debug\net5.0\ref\Addscore.dll
+C:\Users\kalvi\Documents\Addscore\bin\Debug\net5.0\Addscore.pdb
+C:\Users\kalvi\Documents\Addscore\obj\Debug\net5.0\Addscore.dll
+C:\Users\kalvi\Documents\Addscore\obj\Debug\net5.0\ref\Addscore.dll
+C:\Users\kalvi\Documents\Addscore\obj\Debug\net5.0\Addscore.pdb
+C:\Users\kalvi\Documents\Addscore\obj\Debug\net5.0\Addscore.genruntimeconfig.cache
